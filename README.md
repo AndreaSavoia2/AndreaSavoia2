@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 La mia passione per l'informatica è nata tra i banchi delle superiori e da allora non mi sono più fermato. Per mettermi in gioco sul serio ho seguito due corsi di formazione: prima uno come Full-Stack Developer e poi uno specializzato sul Back-End.
 
-Ora mi sto cimentando in una nuova avventura: sto frequentando l'ITS come Software Developer per affilare ancora di più le mie skill. Mi concentro soprattutto sul mondo Back-End sono il mio pane quotidiano), e sono sempre alla ricerca di nuove sfide stimolanti e di progetti complessi in cui buttarmi a capofitto! 🚀
+Ora mi sto cimentando in una nuova avventura: sto frequentando l'ITS come Software Developer per affilare ancora di più le mie skill. Mi concentro soprattutto sul mondo Back-End (Java e Spring sono il mio pane quotidiano), e sono sempre alla ricerca di nuove sfide stimolanti e di progetti complessi in cui buttarmi a capofitto! 🚀
 * ✉️  You can contact me at [andrea.savoia2811@gmail.com](mailto:andrea.savoia2811@gmail.com)
 * 🧠  I'm currently honing my skills in Java, Spring Boot, and .NET ecosystem at ITS.
 * ⚡  I am a nerd who loves playing D&D and tabletop games. "We Dwarves are natural sprinters, very dangerous over short distances.”
