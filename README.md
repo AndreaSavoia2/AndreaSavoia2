@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrea Savoia
 =====================================================================================================================================
 
-La mia passione per l'informatica è nata tra i banchi delle superiori e, da allora, è diventata il motore del mio percorso. Per trasformare questa dedizione in competenze concrete, ho completato due corsi di formazione professionale: il primo come Full-Stack Developer e il secondo specializzandomi verticalmente sul Back-End. 
+La mia passione per l'informatica è nata tra i banchi delle superiori e da allora non mi sono più fermato. Per mettermi in gioco sul serio ho seguito due corsi di formazione: prima uno come Full-Stack Developer e poi uno specializzato sul Back-End.
 
-Attualmente mi sto cimentando in una nuova avventura, frequentando l'ITS come Software Developer per affinare ulteriormente le mie capacità tecniche e metodologiche. Il mio focus principale è lo sviluppo Back-End, con un forte interesse per ecosistemi robusti come Java e .NET, ma mantengo sempre viva la mia più grande ambizione: unire le mie competenze di programmazione al mondo dello sviluppo di videogiochi.
+Ora mi sto cimentando in una nuova avventura: sto frequentando l'ITS come Software Developer per affilare ancora di più le mie skill. Mi concentro soprattutto sul mondo Back-End (Java e .NET sono i miei pane e burro), ma ho sempre un grande obiettivo in testa: unire il codice alla mia passione per i videogiochi e svilupparne uno tutto mio! 🚀
 
 * 🌍  I'm based in Torino, Italy
 * 🖥️  See my portfolio at [Datapizza](http://jobs.datapizza.tech/folio/andreasavoia240)
