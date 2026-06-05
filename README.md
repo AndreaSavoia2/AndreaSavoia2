@@ -1,31 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrea Savoia
 =====================================================================================================================================
 
-Backend Developer
--------------------------
+I am a junior backend developer who studied computer science in high school and further honed my skills with a European full-stack programming course. I am passionate about computer science and one day I would like to develop video games. I've been working on small exercises and personal projects using Spring, while also delving into C#. I am highly motivated by my interest in this field, enjoying the challenge and learning from those more experienced than myself.
 
-Sono un **Junior Backend Developer** di Torino con una solida base informatica nata sui banchi delle superiori e sviluppata attraverso un corso europeo Full Stack e certificazioni backend. La mia passione per la programmazione si riflette sia nella mia esperienza lavorativa sia nei progetti personali che porto avanti ogni giorno, guidato dal sogno nel cassetto di sviluppare videogiochi.
 
-Attualmente mi sto concentrando sul perfezionamento di **Spring** e sull'esplorazione di **C#**, sempre pronto a imparare da professionisti più esperti e ad affrontare nuove sfide.
 
----
+* 🌍  I'm based in Torino, Italy
 
-### 🚀 Info su di me
+* 🖥️  See my portfolio at [Datapizza](http://jobs.datapizza.tech/folio/andreasavoia240)
 
-* 🌍 **Posizione:** Torino, Italia
-* 🧠 **Cosa sto approfondendo:** Spring, TypeScript, C# e metodologie backend avanzate
-* ⚡ **Fun Fact:** Sono un nerd appassionato di D&D e giochi da tavolo. *"We Dwarves are natural sprinters, very dangerous over short distances."*
+* ✉️  You can contact me at [andrea.savoia2811@gmail.com](mailto:andrea.savoia2811@gmail.com)
 
----
+* 🧠  I'm learning Spring, Typescript and more!
 
-### 🛠️ Tech Stack & Strumenti (In costante aggiornamento)
-
-* **Backend:** Java (Spring / Spring Boot), C#
-* **Frontend / Scripting:** TypeScript, JavaScript
-* **Database & Tools:** Git, SQL
-
----
-
+* ⚡  I am a nerd who loves playing D&D and tabletop games. "We Dwarves are natural sprinters, very dangerous over short distances.”
+* 
 ### 📬 Contatti & Link
 
 * 🖥️ **Portfolio:** [Vedi il mio portfolio su Datapizza](http://jobs.datapizza.tech/folio/andreasavoia240)
