@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -------------------------
 
-# Ciao, sono Andrea! 👋
-
 Sono un **Junior Backend Developer** di Torino con una solida base informatica nata sui banchi delle superiori e sviluppata attraverso un corso europeo Full Stack e certificazioni backend. La mia passione per la programmazione si riflette sia nella mia esperienza lavorativa sia nei progetti personali che porto avanti ogni giorno, guidato dal sogno nel cassetto di sviluppare videogiochi.
 
 Attualmente mi sto concentrando sul perfezionamento di **Spring** e sull'esplorazione di **C#**, sempre pronto a imparare da professionisti più esperti e ad affrontare nuove sfide.
