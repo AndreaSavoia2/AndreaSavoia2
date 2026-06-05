@@ -3,9 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 La mia passione per l'informatica è nata tra i banchi delle superiori e da allora non mi sono più fermato. Per mettermi in gioco sul serio ho seguito due corsi di formazione: prima uno come Full-Stack Developer e poi uno specializzato sul Back-End.
 
-Ora mi sto cimentando in una nuova avventura: sto frequentando l'ITS come Software Developer per affilare ancora di più le mie skill. Mi concentro soprattutto sul mondo Back-End (Java e .NET sono i miei pane e burro), ma ho sempre un grande obiettivo in testa: unire il codice alla mia passione per i videogiochi e svilupparne uno tutto mio! 🚀
-
-* 🌍  I'm based in Torino, Italy
+Ora mi sto cimentando in una nuova avventura: sto frequentando l'ITS come Software Developer per affilare ancora di più le mie skill. Mi concentro soprattutto sul mondo Back-End (Java e Spring boot sono i miei pane e burro).
 * 🖥️  See my portfolio at [Datapizza](http://jobs.datapizza.tech/folio/andreasavoia240)
 * ✉️  You can contact me at [andrea.savoia2811@gmail.com](mailto:andrea.savoia2811@gmail.com)
 * 🧠  I'm currently honing my skills in Java, Spring Boot, and .NET ecosystem at ITS.
